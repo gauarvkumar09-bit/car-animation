@@ -1,5 +1,5 @@
 import React from 'react'
-import Car from './car.jsx'
+import Car from './Car.jsx'
 
 const App = () => {
   return (
